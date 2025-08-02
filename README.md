@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]  
 
-<!--
-**MAHANTH-wq/MAHANTH-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 Introduction & Education  
+I’m a **Backend Developer** passionate about building scalable systems and efficient APIs.  
+- 🎓 **Education:** [Your Degree] in [Your Field] from [Your University] ([Year])  
+- 💡 Always exploring new backend technologies and design patterns.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work Experience  
+**Backend Developer** – [Company Name] | [Start Date] – Present  
+- Developed and maintained RESTful and GraphQL APIs.  
+- Optimized database queries improving performance by X%.  
+- Implemented CI/CD pipelines for faster deployments.  
+
+**[Previous Role]** – [Company Name] | [Dates]  
+- [Brief responsibility/achievement]  
+
+---
+
+## 🚀 Projects  
+- **[Project Name](link)** – Short description of what it does and tech stack used.  
+- **[Project Name](link)** – Short description of what it does and tech stack used.  
+- **[Project Name](link)** – Short description of what it does and tech stack used.  
+
+---
+
+## 🌍 Open Source Contributions  
+- [Repo/Project Name](link) – Contribution details (bug fix, feature, documentation, etc.)  
+- [Repo/Project Name](link) – Contribution details  
+
+---
+
+## 🏅 Certifications & Courses  
+- **AWS Certified Solutions Architect – Associate** – Amazon Web Services  
+- **Docker & Kubernetes: The Complete Guide** – Udemy  
+- **Backend Development with Node.js, Express, and MongoDB** – Coursera  
+- **System Design Fundamentals** – Educative.io  
+
+---
+
+## 🛠️ Technologies & Tools  
+**Languages:** Python, Java, JavaScript, Go  
+**Frameworks:** Django, FastAPI, Express.js, Spring Boot  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**DevOps:** Docker, Kubernetes, GitHub Actions, AWS  
+**Others:** REST, GraphQL, Microservices  
+
+---
+
+## 📬 How to Connect with Me  
+- 📧 Email: [your.email@example.com]  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🐦 Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+
+---
+
+## 📊 GitHub Stats  
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)  
