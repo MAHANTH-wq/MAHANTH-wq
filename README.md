@@ -14,9 +14,10 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 
 ## 💼 Work Experience  
 **Software Engineer** – [Oleria](https://www.oleria.com/) | July 2024 – Present  
-- Developed and maintained RESTful and GraphQL APIs.  
-- Optimized database queries improving performance by X%.  
-- Implemented CI/CD pipelines for faster deployments.    
+- Contributed to the end-to-end integration of **Okta** and **ServiceNow** applications within the product.  
+- Supported successful deployment and testing of these integrations in a customer environment managing over **100,000 users**.  
+- Conducted extensive research to gain deep understanding of **Identity and Access Management (IAM)** features, **OAuth** authentication mechanisms, and relevant **REST APIs** for data retrieval in both applications.  
+- Designed and implemented end-to-end **test automation workflow set-up** for the product using **AWS Lambda**, **Playwright** and **GitHub Actions**.    
 
 ---
 
