@@ -1,20 +1,23 @@
 # 👋 Hi, I'm Mahanth
 
-## 👨‍🎓 Introduction & Education  
+## 👨‍🎓 Professional Summary & Education  
 I’m a **Backend Developer** passionate about building scalable systems and efficient APIs.  
-- 🎓 **Education:** [Master's Degree] in [Computer Science(Networks and Information Security)] from [Indian Institute of Technology, Hyderbad] ([2024])  
-- 💡 Always exploring new backend technologies and design patterns.  
+- 🎓 **Education:**
+
+| Degree | Field | Institution | Year |
+|--------|-------|-------------|------|
+| Master's | Computer Science (Networks and Information Security) | Indian Institute of Technology, Hyderabad | 2024 |
+| Bachelor's | Computer Science | Osmania University, Hyderabad | 2022 
+ 
 
 ---
 
 ## 💼 Work Experience  
-**Backend Developer** – [Company Name] | [Start Date] – Present  
-- Developed and maintained RESTful and GraphQL APIs.  
-- Optimized database queries improving performance by X%.  
-- Implemented CI/CD pipelines for faster deployments.  
-
-**[Previous Role]** – [Company Name] | [Dates]  
-- [Brief responsibility/achievement]  
+**Software Engineer** – [Oleria](https://www.oleria.com/) | July 2024 – Present  
+- Contributed to the end-to-end integration of **Okta** and **ServiceNow** applications within the product.  
+- Supported successful deployment and testing of these integrations in a customer environment managing over **100,000 users**.  
+- Conducted extensive research to gain deep understanding of **Identity and Access Management (IAM)** features, **OAuth** authentication mechanisms, and relevant **REST APIs** for data retrieval in both applications.  
+- Designed and implemented end-to-end **test automation workflow set-up** for the product using **AWS Lambda**, **Playwright** and **GitHub Actions**.    
 
 ---
 
