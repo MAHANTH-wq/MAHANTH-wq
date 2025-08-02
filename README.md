@@ -57,5 +57,5 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ---
 
 ## 📊 GitHub Stats  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)  
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAHANTH-wq&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHANTH-wq&layout=compact&theme=dark)  
