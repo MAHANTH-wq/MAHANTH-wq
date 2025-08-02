@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Mahanth
 
-## 👨‍🎓 Introduction & Education  
+## 👨‍🎓 Professional Summary & Education  
 I’m a **Backend Developer** passionate about building scalable systems and efficient APIs.  
-- 🎓 **Education:** [Master's Degree] in *Computer Science(Networks and Information Security)* from [Indian Institute of Technology, Hyderbad] ([2024])  
-- 💡 Always exploring new backend technologies and design patterns.  
+- 🎓 **Education:**
+
+| Degree | Field | Institution | Year |
+|--------|-------|-------------|------|
+| Master's | Computer Science (Networks and Information Security) | Indian Institute of Technology, Hyderabad | 2024 |
+| Bachelor's | Computer Science | Osmania University, Hyderabad | 2022 
+ 
 
 ---
 
 ## 💼 Work Experience  
-**Backend Developer** – [Company Name] | [Start Date] – Present  
+**Software Engineer** – [Oleria](https://www.oleria.com/) | July 2024 – Present  
 - Developed and maintained RESTful and GraphQL APIs.  
 - Optimized database queries improving performance by X%.  
-- Implemented CI/CD pipelines for faster deployments.  
-
-**[Previous Role]** – [Company Name] | [Dates]  
-- [Brief responsibility/achievement]  
+- Implemented CI/CD pipelines for faster deployments.    
 
 ---
 
