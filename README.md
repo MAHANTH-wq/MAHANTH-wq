@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Mahanth
 
 ## 👨‍🎓 Introduction & Education  
 I’m a **Backend Developer** passionate about building scalable systems and efficient APIs.  
-- 🎓 **Education:** [Your Degree] in [Your Field] from [Your University] ([Year])  
+- 🎓 **Education:** [Master's Degree] in [Computer Science(Networks and Information Security)] from [Indian Institute of Technology, Hyderbad] ([2024])  
 - 💡 Always exploring new backend technologies and design patterns.  
 
 ---
