@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Introduction & Education  
 I’m a **Backend Developer** passionate about building scalable systems and efficient APIs.  
-- 🎓 **Education:** [Master's Degree] in [Computer Science(Networks and Information Security)] from [Indian Institute of Technology, Hyderbad] ([2024])  
+- 🎓 **Education:** [Master's Degree] in *Computer Science(Networks and Information Security)* from [Indian Institute of Technology, Hyderbad] ([2024])  
 - 💡 Always exploring new backend technologies and design patterns.  
 
 ---
