@@ -31,7 +31,7 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ## 🚀 Projects  
 - **[Bank System Backend Web Service](https://github.com/MAHANTH-wq/BankSystem)**  
   - Designed database schema using DBML and generate SQL code using SQLC  
-  - Handle transactions, DB isolation levels and avoid deadlock  
+  - Handle transactions, DB isolation levels and avoid deadlocks  
   - Developed a RESTful backend web service using the Gin framework  
   - Secured the APIs with JWT and PASETO user authentication  
   - Built a minimal docker image and used Github Action to automatically build and deploy the app to AWS EKS  
