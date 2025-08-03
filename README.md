@@ -29,8 +29,15 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ---
 
 ## 🚀 Projects  
-- **[Bank System Backend](https://github.com/MAHANTH-wq/BankSystem)**  
-  - This is a backend project 
+- **[Bank System Backend Web Service](https://github.com/MAHANTH-wq/BankSystem)**  
+  - Designed database schema using DBML and generate SQL code using SQLC  
+  - Handle transactions, DB isolation levels and avoid deadlock  
+  - Developed a RESTful backend web service using the Gin framework  
+  - Secured the APIs with JWT and PASETO user authentication  
+  - Built a minimal docker image and used Github Action to automatically build and deploy the app to AWS EKS  
+  - Config Kubernetes Ingress to route traffic to the webservice  
+  - Extended the webservice to support gRPC and gRPC gateway  
+  - Run background workers to send and process email tasks asynchronously with Redis and Asynq 
 - **[Simple AI Agent](https://huggingface.co/spaces/vallurimahanth/Simple_AI_Agent/tree/main)**
   - This is a simple AI Agent
 - **[Alumni Information System](https://github.com/MAHANTH-wq/AluminiProject)**
