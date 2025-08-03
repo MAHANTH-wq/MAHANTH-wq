@@ -13,12 +13,19 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ---
 
 ## 💼 Work Experience  
-**Software Engineer** – [Oleria](https://www.oleria.com/) | July 2024 – Present  
+**Software Engineer** – [Oleria](https://www.oleria.com/) | *July 2024 – Present*  
 - Contributed to the end-to-end integration of **Okta** and **ServiceNow** applications within the product.  
 - Supported successful deployment and testing of these integrations in a customer environment managing over **100,000 users**.  
 - Conducted extensive research to gain deep understanding of **Identity and Access Management (IAM)** features, **OAuth** authentication mechanisms, and relevant **REST APIs** for data retrieval in both applications.  
 - Designed and implemented end-to-end **test automation workflow set-up** for the product using **AWS Lambda**, **Playwright** and **GitHub Actions**.    
 
+**Research Assistant** - M.Tech Thesis [IIT Hyderabad](https://www.netxiith.in/) | *July 2023 - June 2024*  
+**Securing Network Infrastructure: Safeguarding Data Plane Systems Against Attacks on Probabilistic Data Structures**
+
+- **Domain**: Probabilistic Data Structures, Network Security, Smart-NICs, DPU, DOCA SDK
+- **Description**:
+  - **Research**: Investigated Pollution/DDoS attacks on probabilistic data structures. Studied NVIDIA BlueField-2 DPU Architecture and Netronome Agilio Smart-NIC.
+  - **Technology**: Set up NVIDIA BlueField-2 P Series DPU in IIT Hyderabad Data Center on a host server. Implemented FlowRadar Data Plane Packet Processing System utilizing Bloom Filter on Netronome Agilio Smart-NIC in C language and NVIDIA BlueField-2 P-Series DPU using DOCA SDK.
 ---
 
 ## 🚀 Projects  
