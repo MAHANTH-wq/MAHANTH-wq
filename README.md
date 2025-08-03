@@ -29,7 +29,7 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ---
 
 ## 🚀 Projects  
-- **[Bank System Backend Web Service](https://github.com/MAHANTH-wq/BankSystem)**  
+- **[Bank System Backend Web Service in Go](https://github.com/MAHANTH-wq/BankSystem)**  
   - Designed database schema using DBML and generate SQL code using SQLC  
   - Handle transactions, DB isolation levels and avoid deadlocks  
   - Developed a RESTful backend web service using the Gin framework  
