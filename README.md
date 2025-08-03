@@ -39,8 +39,8 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ---
 
 ## 🌍 Open Source Contributions  
-- [Repo/Project Name](link) – Contribution details (bug fix, feature, documentation, etc.)  
-- [Repo/Project Name](link) – Contribution details  
+- [Zitadel](https://github.com/zitadel/zitadel)
+  - Updated the API
 
 ---
 
@@ -62,10 +62,8 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ---
 
 ## 📬 How to Connect with Me  
-- 📧 Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- 📧 Email: [vallulrimahanthkumar@gmail.com]  
+- 💼 LinkedIn: [linkedin.com/in/mahanth-kumar-valluri](https://www.linkedin.com/in/mahanth-kumar-valluri/)
 
 ---
 
