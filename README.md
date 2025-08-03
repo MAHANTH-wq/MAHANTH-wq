@@ -39,7 +39,10 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
   - Extended the webservice to support gRPC and gRPC gateway  
   - Run background workers to send and process email tasks asynchronously with Redis and Asynq
 - **[Splitwise App - Low Level Design](https://github.com/MAHANTH-wq/LLD/tree/main/splitwise)**  
-  - check the app
+  - Designed and implemented low level design for a bill-splitting application inspired by Splitwise   
+  - Modeled core entities users, groups, expenses, transactions, balanceSheet and their relationships.  
+  - Applied Strategy and Factory Design patterns
+  - Developed features including equal/unequal expense splitting, group-based expense tracking and simplify debts to minimize the number of transactions among users 
 - **[Simple AI Agent](https://huggingface.co/spaces/vallurimahanth/Simple_AI_Agent/tree/main)**
   - Designed and implemented a general-purpose AI agent in Python capable of autonomous task execution.  
   - Developed a suite of custom tools to enhance the agent’s reasoning and problem-solving abilities.  
