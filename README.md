@@ -29,9 +29,9 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ---
 
 ## 🚀 Projects  
-- **[Project Name](link)** – Short description of what it does and tech stack used.  
-- **[Project Name](link)** – Short description of what it does and tech stack used.  
-- **[Project Name](link)** – Short description of what it does and tech stack used.  
+- **[Bank System Backend](https://github.com/MAHANTH-wq/BankSystem)** – Short description of what it does and tech stack used.  
+- **[Simple AI Agent](https://huggingface.co/spaces/vallurimahanth/Simple_AI_Agent/tree/main)** – Short description of what it does and tech stack used.  
+- **[Alumni Information System](https://github.com/MAHANTH-wq/AluminiProject)** – Short description of what it does and tech stack used.  
 
 ---
 
