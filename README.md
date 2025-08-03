@@ -56,15 +56,18 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 
 ## 🌍 Open Source Contributions  
 - [Zitadel](https://github.com/zitadel/zitadel)
-  - Updated the API
+  - SortingColumn functionality on system and admin API ListIAMMembers ([link](https://github.com/zitadel/zitadel/pull/9203))  
+  - ListIAMMembers on system and admin APi provide the resoureowner as user resourceowner ([link](https://github.com/zitadel/zitadel/pull/9168))
+
+
 
 ---
 
 ## 🏅 Certifications & Courses  
-- **Fundamentals of AI Agents** – [Link](https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/dd5fb94e64b6abe2fccde5d772e970119b2e0f1332fe0e15abf96bbd99e34096?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250803T064821Z&X-Amz-Expires=3600&X-Amz-Signature=7667fa78198ac3751f74669416ec14e8d410ecd0e54aa330f1f50c78139b5cb6&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=67eb4c836522661171f80908&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-04-04.png%3B+filename%3D%222025-04-04.png%22%3B&response-content-type=image%2Fpng&x-id=GetObject&Expires=1754207301&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDIwNzMwMX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82N2E0NzAzNzc0OWVhMmM0YjlmYWZkNGIvZGQ1ZmI5NGU2NGI2YWJlMmZjY2RlNWQ3NzJlOTcwMTE5YjJlMGYxMzMyZmUwZTE1YWJmOTZiYmQ5OWUzNDA5NioifV19&Signature=bcv2FPvBfbgd6SQjDQIgZ4gnKP%7EkbdXPeCSmHx8UvBm355KO3B3dRlCIuEG7%7EI7M0x7giPnbSIiOsLna8qnfmHPplveCEymA6DtbybujL0q-RNW-8cTtTJdb3qqrAvGNURPFF6zG9TAIS8FtfFopl0ZS0xMfCaay9eosKttmys9CLy1claCktIcpwfTEHX69oK159ylClYt6vmr72yjHuslTffHT7dPYPfQpndXTHzSRy5tar1D3uYhEiYzYdC3vPx7hiAWae8RGxjInZO6v0IFn7pTdNw9qUkB2cCV7WeJhoFCbcDcTVHzEAcW9OTW-eh9Fz5Gx2Bo3FobXaeiJ1w__&Key-Pair-Id=K2L8F4GPSG1IFC) 
-- **Building Neo4j Applications with GO** - [Link](https://graphacademy.neo4j.com/c/f9e12151-7d05-4481-a3bc-485c12abfc0d/)
-- **Neo4j Fundamentals** - [Link](https://graphacademy.neo4j.com/c/f0a9b6b9-cf54-4874-8e4c-81814cf6fc87/)
-- **Introduction to DOCA** - [Link](https://learn.nvidia.com/certificates?id=7bad3dafaa04481abf4c6814f58f7b62)
+- **Fundamentals of AI Agents** – [link](https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/dd5fb94e64b6abe2fccde5d772e970119b2e0f1332fe0e15abf96bbd99e34096?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250803T064821Z&X-Amz-Expires=3600&X-Amz-Signature=7667fa78198ac3751f74669416ec14e8d410ecd0e54aa330f1f50c78139b5cb6&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=67eb4c836522661171f80908&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-04-04.png%3B+filename%3D%222025-04-04.png%22%3B&response-content-type=image%2Fpng&x-id=GetObject&Expires=1754207301&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDIwNzMwMX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82N2E0NzAzNzc0OWVhMmM0YjlmYWZkNGIvZGQ1ZmI5NGU2NGI2YWJlMmZjY2RlNWQ3NzJlOTcwMTE5YjJlMGYxMzMyZmUwZTE1YWJmOTZiYmQ5OWUzNDA5NioifV19&Signature=bcv2FPvBfbgd6SQjDQIgZ4gnKP%7EkbdXPeCSmHx8UvBm355KO3B3dRlCIuEG7%7EI7M0x7giPnbSIiOsLna8qnfmHPplveCEymA6DtbybujL0q-RNW-8cTtTJdb3qqrAvGNURPFF6zG9TAIS8FtfFopl0ZS0xMfCaay9eosKttmys9CLy1claCktIcpwfTEHX69oK159ylClYt6vmr72yjHuslTffHT7dPYPfQpndXTHzSRy5tar1D3uYhEiYzYdC3vPx7hiAWae8RGxjInZO6v0IFn7pTdNw9qUkB2cCV7WeJhoFCbcDcTVHzEAcW9OTW-eh9Fz5Gx2Bo3FobXaeiJ1w__&Key-Pair-Id=K2L8F4GPSG1IFC) 
+- **Building Neo4j Applications with GO** - [link](https://graphacademy.neo4j.com/c/f9e12151-7d05-4481-a3bc-485c12abfc0d/)
+- **Neo4j Fundamentals** - [link](https://graphacademy.neo4j.com/c/f0a9b6b9-cf54-4874-8e4c-81814cf6fc87/)
+- **Introduction to DOCA** - [link](https://learn.nvidia.com/certificates?id=7bad3dafaa04481abf4c6814f58f7b62)
 - **Kubernetes for Absolute Begineers- Hands on** – [Udemy](https://www.udemy.com/certificate/UC-c8961406-1bcb-45b3-b70c-2ee4e48408cf/)  
 - **Building Web Applications with Django** – [Coursera](https://www.coursera.org/account/accomplishments/certificate/G5PZQB2FNVF6)  
 
