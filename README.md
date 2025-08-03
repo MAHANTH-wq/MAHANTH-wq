@@ -41,7 +41,9 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 - **[Simple AI Agent](https://huggingface.co/spaces/vallurimahanth/Simple_AI_Agent/tree/main)**
   - This is a simple AI Agent
 - **[Alumni Information System](https://github.com/MAHANTH-wq/AluminiProject)**
-  - This is a backend project Django
+  -  A platform that stores and manages alumni data while also providing updates on college events, news, and networking opportunities  
+  -  Multiple user login, Event posting, Data visualization, and Alumni Registration Approval
+  -  Used Django Framework and Deployed using heroku
 
 ---
 
