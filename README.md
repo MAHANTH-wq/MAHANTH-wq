@@ -37,7 +37,9 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
   - Built a minimal docker image and used Github Action to automatically build and deploy the app to AWS EKS  
   - Config Kubernetes Ingress to route traffic to the webservice  
   - Extended the webservice to support gRPC and gRPC gateway  
-  - Run background workers to send and process email tasks asynchronously with Redis and Asynq 
+  - Run background workers to send and process email tasks asynchronously with Redis and Asynq
+- **[Splitwise App - Low Level Design](https://github.com/MAHANTH-wq/LLD/tree/main/splitwise)**
+  - 
 - **[Simple AI Agent](https://huggingface.co/spaces/vallurimahanth/Simple_AI_Agent/tree/main)**
   - Designed and implemented a general-purpose AI agent in Python capable of autonomous task execution.  
   - Developed a suite of custom tools to enhance the agent’s reasoning and problem-solving abilities.  
