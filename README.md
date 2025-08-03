@@ -39,7 +39,9 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
   - Extended the webservice to support gRPC and gRPC gateway  
   - Run background workers to send and process email tasks asynchronously with Redis and Asynq 
 - **[Simple AI Agent](https://huggingface.co/spaces/vallurimahanth/Simple_AI_Agent/tree/main)**
-  - This is a simple AI Agent
+  - Designed and implemented a general-purpose AI agent in Python capable of autonomous task execution.  
+  - Developed a suite of custom tools to enhance the agent’s reasoning and problem-solving abilities.  
+  - Evaluated performance against the GAIA Benchmark to validate accuracy, adaptability, and robustness.  
 - **[Alumni Information System](https://github.com/MAHANTH-wq/AluminiProject)**
   -  A platform that stores and manages alumni data while also providing updates on college events, news, and networking opportunities  
   -  Multiple user login, Event posting, Data visualization, and Alumni Registration Approval
