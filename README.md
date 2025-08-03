@@ -55,11 +55,12 @@ I’m a **Backend Developer** passionate about building scalable systems and eff
 ---
 
 ## 🛠️ Technologies & Tools  
-**Languages:** Python, Java, JavaScript, Go  
-**Frameworks:** Django, FastAPI, Express.js, Spring Boot  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**DevOps:** Docker, Kubernetes, GitHub Actions, AWS  
-**Others:** REST, GraphQL, Microservices  
+**Languages:** Go, C++, Python, TypeScript  
+**Frameworks:** Gin, Django  
+**Databases:** PostgreSQL, MongoDB, Redis, Neo4j    
+**DevOps:** AWS, Docker, Kubernetes, GitHub Actions  
+**Automation:** Playwright  
+**APIs & Protocols**: REST, GraphQL, gRPC  
 
 ---
 
