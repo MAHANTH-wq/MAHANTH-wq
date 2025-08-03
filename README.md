@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahanth
 
 ## 👨‍🎓 Professional Summary & Education  
-I’m a **Backend Developer** passionate about building scalable systems and efficient APIs.  
+Backend Developer with a strong foundation in scalable system design, API development, and cloud-native applications. Experienced in delivering production-ready solutions using Go, Python, and C++, with expertise in AWS, Docker, Kubernetes, and automation workflows. Skilled in applying design patterns, low-level architecture, and test automation to build reliable, maintainable systems. Passionate about solving complex problems, contributing to open-source projects, and continuously learning new technologies.
 - 🎓 **Education:**
 
 | Degree | Field | Institution | Year |
