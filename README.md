@@ -84,8 +84,8 @@ Backend Developer with a strong foundation in scalable system design, API develo
 ## 📚 Publications
 
 - **[Securing In-Network Fast Control Loop Systems from Adversarial Attacks :](https://ieeexplore.ieee.org/document/10427291)**  
-  _Authors: Harish S A, Divya Pathak, Mahanth Kumar Valluri, Sree Prathyush Chinta, Amogh Bedarakota, Rinku Shah, Praveen Tammana
-  _Published in: COMSNETS 2024  
+  Authors: Harish S A, Divya Pathak, Mahanth Kumar Valluri, Sree Prathyush Chinta, Amogh Bedarakota, Rinku Shah, Praveen Tammana  
+  Published in: COMSNETS 2024  
   📄 My contribution to the paper demonstrates the results of DDoS attacks on Smart-NICs
 
 ---
